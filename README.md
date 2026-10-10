@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi! I’m a 18-year-old ICS student with a big love for Python.<br>🌟 Every day, I’m coding up new projects and learning something exciting.<br>🔐 My dream? To become a cybersecurity guru and make the web safer.<br>🚀 Join me on this awesome coding adventure and let’s innovate together!<br>✨ Let’s connect and create something amazing!
+#  About Me:
+ I’m a 18-year-old ICS student with a big love for Python.<br> Every day, I’m coding up new projects and learning something exciting.<br> My dream? To become a cybersecurity guru and make the web safer.<br> Join me on this awesome coding adventure and let’s innovate together!<br> Let’s connect and create something amazing!
 
 
 ## 🌐 Socials:
